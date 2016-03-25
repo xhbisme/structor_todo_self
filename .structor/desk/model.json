@@ -1,0 +1,59 @@
+{
+  "pages": [
+    {
+      "pageName": "Todo",
+      "pagePath": "/todos",
+      "children": [
+        {
+          "variantName": "Unsaved variant",
+          "type": "div",
+          "props": {
+            "data-umyid": "2",
+            "style": {
+              "width": "520px",
+              "marginLeft": "auto",
+              "marginRight": "auto",
+              "textAlign": "center",
+              "background": "#eee"
+            }
+          },
+          "children": [
+            {
+              "variantName": "Unsaved variant",
+              "type": "THead",
+              "props": {
+                "data-umyid": "3"
+              },
+              "children": []
+            },
+            {
+              "variantName": "Unsaved variant",
+              "type": "TBody",
+              "props": {
+                "data-umyid": "4",
+                "style": {
+                  "listStyle": "none",
+                  "textAlign": "left"
+                }
+              },
+              "children": []
+            },
+            {
+              "variantName": "Unsaved variant",
+              "type": "TDFoot",
+              "props": {
+                "data-umyid": "9"
+              }
+            }
+          ]
+        }
+      ],
+      "props": {
+        "data-umyid": "1"
+      },
+      "pageTitle": "UnnamedPage",
+      "pageProps": [],
+      "pageScript": ""
+    }
+  ]
+}
